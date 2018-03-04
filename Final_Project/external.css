@@ -1,0 +1,17 @@
+
+h1{
+  font: 400 100px/.5'Pacifico', Helvetica, sans-serif;
+  color: #000099;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+body {
+    background-color:#e6f2ff;
+}
+h2{
+  font: 30px/.5'Pacifico', Helvetica, sans-serif;
+  color: black;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+  text-align: center;
+}
